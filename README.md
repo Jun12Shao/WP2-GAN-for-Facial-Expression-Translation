@@ -12,7 +12,7 @@ WP2-GAN can perform continuous facial expression translation by taking a source 
 
 ### Important disclaimer
 
-In our experiments, all images are aligned, cropped and resized to the size of 128128 by [Openface](https://github.com/TadasBaltrusaitis/OpenFace).
+In our experiments, all images are aligned, cropped and resized to the size of 128*128 by [Openface](https://github.com/TadasBaltrusaitis/OpenFace).
 
 
 ![framework-exp](results/framework-exp.png)
